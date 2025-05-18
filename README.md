@@ -8,3 +8,11 @@ Sistem memungkinkan pengguna untuk :
 * Memesan tiket berdasarkan maskapai dan tujuan
 * Melihat keranjang pesanan
 * Melakukan pembayaran dan menampilkan kembalian
+### 1.3 Definisi, Akronim, dan Singkatan
+| Istilah | Arti                               |
+------------------------------------------------
+| CLI	    |Command Line Interface              |
+| SRS	    |Software Requirements Specification |
+| User	  | Pengguna akhir aplikasi            |
+| Admin	  | Pemilik/pengelola sistem           |
+------------------------------------------------
