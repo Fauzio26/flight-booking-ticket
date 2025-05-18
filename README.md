@@ -10,9 +10,9 @@ Sistem memungkinkan pengguna untuk :
 * Melakukan pembayaran dan menampilkan kembalian
 ### 1.3 Definisi, Akronim, dan Singkatan
 | Istilah | Arti                               |
------------------------------------------------|
+----------|------------------------------------|
 | CLI	    |Command Line Interface              |
 | SRS	    |Software Requirements Specification |
 | User	  | Pengguna akhir aplikasi            |
 | Admin	  | Pemilik/pengelola sistem           |
------------------------------------------------|
+
