@@ -34,3 +34,20 @@ Pengguna adalah calon penumpang atau petugas tiket. Tidak dibutuhkan latar belak
 | RF003  | Tampilkan keranjang          | Sistem menampilan isi pesanan dan subtotal                               |
 | RF004  | Proses pembayaran            | Sistem menerima jumlah uang, menghtung total, dan menampilkan kembali    |
 | RF005  | Validasi pembayran           | Sistem menolak pembayaran jika jumlah uang kurang dari total harga tiket |
+## 4. Kebutuhan Non-Fungsional
+| Kode   | Deskripsi                                                                 |
+|--------|---------------------------------------------------------------------------|
+| RNF001 | Sistem merespons input pengguna dalam waktu kurang dari 1 detik.         |
+| RNF002 | Sistem dapat dijalankan di Python 3.x tanpa library eksternal tambahan.  |
+| RNF003 | Antarmuka berbasis teks sederhana (CLI) untuk kemudahan penggunaan.      |
+## 5. Antarmuka Sistem
+### 5.1 Antarmuka Pengguna
+* CLI (Command Line Interface) berbasis teks.
+* Navigasi menggunakan input numerik (contoh: pilih 1 untuk lihat penerbangan).
+* Umpan balik langsung saat input salah atau proses berhasil/gagal.
+* Tampilan terminal yang sederhana dan informatif untuk daftar penerbangan, keranjang, dan pembayaran.
+### 5.2 Antarmuka Perangkat Keras
+* Komputer/Laptop yang mendukung Python 3.x.
+* Tidak membutuhkan perangkat keras tambahan (printer, scanner, dll).
+* Input: keyboard. Output: layar terminal/console.
+
