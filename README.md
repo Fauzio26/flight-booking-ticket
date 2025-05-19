@@ -62,5 +62,14 @@ Pengguna adalah calon penumpang atau petugas tiket. Tidak dibutuhkan latar belak
 * Struktur kode program (terpisah dalam 4 file: flight_menu.py, flight_order.py, flight_payment.py, main_flight.py)
 #### 1. flight_menu.py
   ![Image](https://github.com/user-attachments/assets/5a8542ef-80a6-49d8-ada1-1cb0a57837fc)
+#### 2. flight_order.py
+![Image](https://github.com/user-attachments/assets/d3869c8f-959e-48b0-adc5-679ff7cfc274)
+#### 2. flight_payment.py
+![Image](https://github.com/user-attachments/assets/c290f591-bedf-4696-996f-bb1489dd4b7a)
+#### 2. mian_flight.py
+![Image](https://github.com/user-attachments/assets/afc2ef88-1f54-4f22-bf57-06e0d8b827c7)
+
 * Screenshot contoh penggunaan program
-* Diagram alur pemesanan tiket (opsional, dapat ditambahkan sesuai kebutuhan visual)
+![Image](https://github.com/user-attachments/assets/0002555a-b5d5-49ca-9fea-c1ce02d275ac)
+![Image](https://github.com/user-attachments/assets/4a1f8f52-79c3-4a66-97c2-13fc4d89a747)
+
