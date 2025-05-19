@@ -66,7 +66,7 @@ Pengguna adalah calon penumpang atau petugas tiket. Tidak dibutuhkan latar belak
 ![Image](https://github.com/user-attachments/assets/d3869c8f-959e-48b0-adc5-679ff7cfc274)
 #### 2. flight_payment.py
 ![Image](https://github.com/user-attachments/assets/c290f591-bedf-4696-996f-bb1489dd4b7a)
-#### 2. mian_flight.py
+#### 2. main_flight.py
 ![Image](https://github.com/user-attachments/assets/afc2ef88-1f54-4f22-bf57-06e0d8b827c7)
 
 ##### Screenshot contoh penggunaan program
