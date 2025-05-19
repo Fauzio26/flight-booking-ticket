@@ -50,4 +50,15 @@ Pengguna adalah calon penumpang atau petugas tiket. Tidak dibutuhkan latar belak
 * Komputer/Laptop yang mendukung Python 3.x.
 * Tidak membutuhkan perangkat keras tambahan (printer, scanner, dll).
 * Input: keyboard. Output: layar terminal/console.
-
+### 5.3 Antarmuka Perangkat Lunak
+* Interpreter Python
+* Tidak memerlukan library ekseternal tambahan
+## 6. Batasan Sistem
+* Tidak menyimpan data secara permanen
+* Hanya melayani satu transaksi pada satu waktu
+* Tidak ada fitur login atau manajemen pengguna
+* Tidak tersedia dalam bentuk GUI atau web
+## 7. Lampiran
+* Struktur kode program (terpisah dalam 4 file: flight_menu.py, flight_order.py, flight_payment.py, main.py)
+* Screenshot contoh penggunaan program
+* Diagram alur pemesanan tiket (opsional, dapat ditambahkan sesuai kebutuhan visual)
